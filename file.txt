@@ -1,0 +1,3 @@
+This is the test file
+Tring to work from command line interface
+Linux os
